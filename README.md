@@ -1,5 +1,3 @@
-# Diseña-tu-Propio-Sistema-de-Transporte-Público
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
