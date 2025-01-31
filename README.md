@@ -20,7 +20,7 @@
         .map {
             width: 100%;
             height: 400px;
-            background: url('Screenshot_19.png') no-repeat center center;
+            background:('Screenshot_19.png') no-repeat center center;
             background-size: cover;
             position: relative;
         }
