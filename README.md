@@ -20,7 +20,7 @@
         .map {
             width: 100%;
             height: 400px;
-            background: url('(https://i.postimg.cc/MTYkzq6H/simple-2d-city-map.png)') no-repeat center center;
+            background: url('Screenshot_19.png') no-repeat center center;
             background-size: cover;
             position: relative;
         }
