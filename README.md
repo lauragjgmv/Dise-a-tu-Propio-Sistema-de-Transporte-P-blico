@@ -20,7 +20,7 @@
         .map {
             width: 100%;
             height: 400px;
-            background: url('[https://upload.wikimedia.org/wikipedia/commons/3/35/City_map.png](https://i.imgur.com/fX8rTJK.png)') no-repeat center center;
+            background: url('[https://i.imgur.com/fX8rTJK.png]') no-repeat center center;
             background-size: cover;
             position: relative;
         }
