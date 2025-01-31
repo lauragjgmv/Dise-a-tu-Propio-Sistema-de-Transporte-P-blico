@@ -20,7 +20,7 @@
         .map {
             width: 100%;
             height: 400px;
-            background: url('[https://i.imgur.com/fX8rTJK.png]') no-repeat center center;
+            background: url('[[https://i.imgur.com/fX8rTJK.png]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Urban_Transit_Map.svg/1200px-Urban_Transit_Map.svg.png)') no-repeat center center;
             background-size: cover;
             position: relative;
         }
